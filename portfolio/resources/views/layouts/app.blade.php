@@ -41,6 +41,9 @@
                         <li class="nav-item" style="margin-left: 15px;">
                             <a class="nav-link" href="{{ route('about') }}">About</a>
                         </li>
+                        <li class="nav-item" style="margin-left: 15px;">
+                            <a class="nav-link" href="{{ route('contact') }}">Contact</a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->

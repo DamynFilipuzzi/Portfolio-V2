@@ -10,7 +10,7 @@
                 <div class="mb-12">
                     <div class="col-md-6">
                         <h1>
-                            About
+                            Contact
                         </h1>
 
                         <h1 class="bi bi-alarm"></h1>
