@@ -94,8 +94,17 @@
 
     <div class="row p-3">
         <div class="col">
+            
+        </div>
+        <div class="col" style="margin: auto;">
             <div class="text-center">
-                <small>&copy; Copyright 2021, Damyn Filipuzzi. Icons made by <a href="https://getbootstrap.com/">Bootstrap</a></small>
+                <small class="align-middle">&copy; Copyright 2021, Damyn Filipuzzi. Icons made by <a href="https://getbootstrap.com/">Bootstrap</a></small>
+            </div>
+        </div>
+        <div class="col" style="margin: auto;">
+            <div class="text-center">
+                <a class="align-middle" style="display: inline-block;" href="https://www.linkedin.com/in/damyn-filipuzzi/" target="_blank"><h3 class="bi bi-linkedin m-0 ml-1 mr-1"></h3></a>
+                <a class="align-middle" style="display: inline-block;" href="https://github.com/DamynFilipuzzi" target="_blank"><h3 class="bi bi-github m-0 ml-1 mr-1"></h3></a>
             </div>
         </div>
     </div>

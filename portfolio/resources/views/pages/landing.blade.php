@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-
+<!-- Intro -->
 <div class="container mb-5">
     
         <div class="card" style="width:100%; border-bottom: 1px solid #DCDCDC; border-radius: 25px;">
@@ -27,7 +27,7 @@
         </div>
 
 </div>
-
+<!-- Three Bubbles -->
 <div class="container">
 
     <div class="row">
