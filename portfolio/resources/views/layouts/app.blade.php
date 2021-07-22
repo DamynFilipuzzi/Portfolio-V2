@@ -89,5 +89,18 @@
             @yield('content')
         </main>
     </div>
+    <!-- Footer -->
+<footer class="text-center text-lg-start bg-light text-muted fixed-bottom">
+
+    <div class="row p-3">
+        <div class="col">
+            <div class="text-center">
+                <small>&copy; Copyright 2021, Damyn Filipuzzi. Icons made by <a href="https://getbootstrap.com/">Bootstrap</a></small>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
 </body>
 </html>
