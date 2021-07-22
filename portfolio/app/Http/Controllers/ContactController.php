@@ -25,4 +25,15 @@ class ContactController extends Controller
     {
         return view('pages.contact');
     }
+
+    public function submitForm(Request $request) {
+        $firstName = $request->input('firstName');
+        $lastName = $request->input('lastName');
+        $email = $request->input('email');
+        $msg = $request->input('message');
+
+        //dd($firstName, $lastName, $email, $msg);
+
+        return redirect()->route('contact');
+    }
 }
